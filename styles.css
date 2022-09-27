@@ -1,0 +1,155 @@
+#section1{
+  background-image: url("images/bgimg.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+#topheadingid{
+  margin-top: 25px;
+  color: white;
+  text-align: center;
+  font-family: 'Bungee Spice', cursive;
+font-family: 'Noto Sans Mono', monospace;
+}
+.myname{
+  color: #C7F2A4;
+}
+.navbar{
+  position: fixed;
+  top: 0;
+  width:100vw;
+}
+.navicon{
+  height: 30px;
+}
+
+.robofont{
+  font-family: 'Bungee Spice', cursive;
+font-family: 'Noto Sans Mono', monospace;
+font-weight: bold;
+}
+body{
+  font-family: 'Bungee Spice', cursive;
+  font-family: 'Noto Sans Mono', monospace;
+  font-weight: bold;
+}
+
+
+/* about container */
+.section2{
+  height: 100vh;
+  background-color: #FBF2CF;
+}
+
+.aboutleft{
+  background-image: url("images/aboutus.png");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+/* SKill Box*/
+.section3{
+  height: 100vh;
+  background-color: #16213E;
+}
+.skillsheding{
+  padding-top: 120px;
+  color: white;
+}
+.imageskill{
+  text-align: center;
+  margin-left: 35px;
+  width: 50px;
+}
+.imageskill:hover{
+  width: 70px;
+}
+.skillbox:hover{
+  height: 140px;
+  width: 140px;
+}
+.skillbox{
+  text-align: center;
+  margin: 5px;
+  border-radius: 1px;
+  height: 130px;
+  width: 130px;
+  background-color:#F5EFE6
+
+}
+.skillrightcont{
+  background-color: #F5EFE6;
+  color: black;
+}
+.skillimagestar{
+  height: 300px;
+}
+.hiremebtn{
+  color: white;
+  background-color:#16213E;
+}
+.hiremebtn:hover{
+  color: grey;
+}
+.openforhiire{
+  font-family: 'Bungee Spice', cursive;
+  font-family: 'Noto Sans Mono', monospace;
+  font-family: cursive;
+}
+/*Projectsclass*/
+.bluecard{
+  background-color: #16213E;
+}
+.Projectsclass{
+  background-color:#FBF2CF;
+  background-size: cover;
+  height: 100vh;
+}
+.verticle-line{
+
+  width: 5px;
+  height: 800px;
+  background-color: black;
+}
+/*college*/
+.educationdetails{
+  background-color: #F5EFE6;
+  width: 300px;
+  text-align: center;
+
+}
+.logocollege{
+  width:55px;
+}
+#EDUCATIONsection{
+  text-align: center;
+  background-color: #16213E;
+  height: 100vh;
+  padding: 150px;
+}
+.educationdetails:hover{
+  width: 350px;
+}
+/*CERTIFICATIONS*/
+
+#sectionCertificationsid{
+  height: 100vh;
+  background-color: #FBF2CF;
+}
+.card{
+  background-color: #F5EFE6;
+}
+
+.sectionCertifications1{
+  position: absolute;
+  left: 300px
+}
+/*Contact*/
+#Contactsection{
+  background-color: #16213E;
+  height: 50vh;
+  color: white;
+}
+.Linkedincont{
+  width: 150px;
+}
